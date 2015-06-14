@@ -1,0 +1,8 @@
+#appname:Post.App
+#publisher:stephaneadamgarnier
+#url:http://stephaneadamgarnier.com
+#image:appicon.png
+#appid:Post.App
+#desc:Simple App allowing a logged user to post custom content to a custom wordpress installation from his smartphone.
+#type:mobile
+#guid:9b17262d-1dda-4acf-a271-6ae60ea3393e

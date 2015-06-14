@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;myGalleryApp/Resources/views/showreelStuff/home.js&apos; to &apos;gallery.js&apos;" description="Rename resource &apos;home.js&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Resources/views/showreelStuff/home.js" name="gallery.js" stamp="1322404980084" updateReferences="true"/>&#x0A;<refactoring comment="Move 1 resources to &apos;views&apos;" description="Move 1 resources to &apos;views&apos;" destination="Resources/views" element1="Resources/views/showreelStuff/gallery.js" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1322404985943" updateReferences="true"/>
+</session>

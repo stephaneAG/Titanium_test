@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 1 resources to &apos;ProductsApp&apos;" description="Move 1 resources to &apos;ProductsApp&apos;" destination="/ProductsApp" element1="localDatas/products.json" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1322627065400" updateReferences="true"/>
+</session>

@@ -1,0 +1,6 @@
+[
+{ "leftImage":"es.png", "title":"Spain", "hasChild":"true" },
+{ "leftImage":"gb.png", "title":"United Kingdom", "hasChild":"true" },
+{ "leftImage":"us.png", "title":"United States", "hasChild":"true" },
+{ "leftImage":"fr.png", "title":"France", "hasChild":"true" }
+]
